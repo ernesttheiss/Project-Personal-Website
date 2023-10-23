@@ -36,11 +36,16 @@ button {
 }
 img {
     width: 150px;
-    height: 100px;
+    height: px;
     border: 1px solid black;
     padding: 5px;
     border-radius: 10px;
     position: absolute;
-    top:65px;
+    top: 65px;
     right: 10px;
+}
+header {
+    font-size: x-large;
+    font-style: italic;
+    color: white;
 }
